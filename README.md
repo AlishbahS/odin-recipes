@@ -1,2 +1,2 @@
 # odin-recipes
-I'll be making a simple resipes webpage.
+I'll be making a simple recipes webpage.
